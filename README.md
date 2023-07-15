@@ -1,9 +1,8 @@
-# Welcome to GitHub Desktop!
+# Sistema de cadastro de jogos!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Este é um Readme do curso de Git e Github da Alura.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-para rodar esse projeto na sua máquina instale o:
+## para rodar esse projeto na sua máquina instale o:
 ***
 node app.js
 ***
